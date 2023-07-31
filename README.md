@@ -12,3 +12,8 @@
 <img align="center" alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" >
 <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" >
 </div>
+
+### Cloud ☁️
+<div style="display: inline_block"><br/>
+  <img align="center" alt="net" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" >
+</div>
